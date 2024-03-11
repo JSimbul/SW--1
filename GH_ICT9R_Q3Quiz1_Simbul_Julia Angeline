@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial scale=1">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <p class="navbar-brand">
+
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarNav">
+
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                <a class="nav-link" href="artistInfo">Home</a>
+
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="arttable">Movies</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="artInfo">Genre</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="artTable">Contact Us</a>
+            </li>
+        </ul>
+        </div>
+        </nav>
+            
+      <style>
+            .center {
+              
+              margin-left: auto;
+              margin-right: auto;
+              width: 30%;
+          }
+
+             body {
+                background-size: cover;
+                background-image: ul(https://i.pinimg.com/564x/ef/64/98/ef6498ca375ba5032ddbed3315a4b5d5.jpg}
+              header {
+                background-image: ;
+              }
+            </style>
+            <table border="2" cellpadding="8" class="table table-striped">
+     <header> <center><img src="https://i.pinimg.com/564x/ae/a6/f5/aea6f543a891c8bb4708ed55bdb4cef0.jpg" width="200" height="230"></center> </header>
+     <tr> 
+                <br>
+    <table border="2" cellpadding="8" class="table table-striped">
+     <tr>
+            <th>Movies</th>
+            <th>Synopsis</th>
+            <th>Cast and Director</th>
+            <th>Reviews</th>
+        </tr>
+       
+      <div class="container mt-3">
+              <table class="table table-bordered">
+            <thead>
+            <tbody>
+                   <tr>
+                  <tr class="table-info">
+                <th><img src="https://i.pinimg.com/564x/ce/63/4b/ce634bf45e27b52e4b5c2b8249977734.jpg" width="550" height="500"></th>
+                <td>Barbie lives a pefect live everyday. One day, there was a sign of being a huamn. She decided to go to the Real World to find out a cure to make her life perect again. This movies has a message, that all women should not suffer or give up their imagination, and can find empowerment. Also find joy in the childhood toys.</td> 
+ <td>Cast: Margot Robbie, Ryan Gosling, Greta Gerwig</td>
+    <td> Jeffrey Peterson: "One of the main keys to Barbie’s success is commitment to the Barbieland authenticity and Gerwig’s willingness to undercut both Barbie and Ken leads, only to build them back up again."</td>
+              </tr>
+            </tr>
+                  <tr class="table-info">
+                <td><img src="https://i.pinimg.com/736x/46/4e/26/464e26b46bb779adbbb85d5793d139fe.jpg" width="550" height="500"></td>
+                <td>Coco tells the stroy of a young boy named Miguel who lives in Mexico. Miguel loves to play music and he have to keep it a secret because his family doesn't want music at all. The movie has a message that family is imporatant. We should never stop loving them even after death, we sahll remember them even if they don't exist anymore. </td>
+                <td> Anthony Gonzalez, Adrian Molina, and Lee Unkrich</td>
+                <td> Denise Pieniazek: "Coco is a story full of emotion and deep entertainment. The proposal emphasizes the importance of traditions and family, but stripping them of their mandates to offer their members listening and understanding."</td>
+
+<hr>
+</tr>
+
+            </tr>
+
+            <tr>
+            <tr class="table-info">
+                <td><img src="https://i.pinimg.com/564x/d9/31/91/d93191422baaa2ac3876e0576f840bf4.jpg" width="550" height="500"></td>
+                 <td>Poppy, the happiest Troll ever born, and the grumpy Branch set off on a mission to save her pals after the Bergens invade Troll Village. Two unlikely allies must cooperate flawlessly to rescue the day when the sour Bergens invade their community. The message in this movie is that we should never give up, and be proud of who we are.</td>
+                 <td>Anna Kendrick, and Mike Mtchell</td>
+                 <td>Steven Prokopy"There's no denying that kids will likely eat this up, dance in the aisles, and have a good time out, but I'm guessing there will be a sizable number of adults in close proximity tapping their toes and smiling right along with them."</td>
+             </tr>
+         </tr>
+     </tbody>
+ </table>
+</div>
+   
+    <div class="topnav"> 
+        <center/><h2><input type="text" placeholder="Search movies and more">
+    </div>
+          <center/><button type="Search" class="btn btn-danger">Search</button>
+    </form>
+</body>
+</htm>
